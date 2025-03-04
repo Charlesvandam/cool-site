@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    background-color: rgb(13, 8, 38);
+}
+
+nav a {
+    margin-left: 50px
+}
+
+nav img {}
+
+.d-flex {
+    display: flex;
+}
+
+nav a {
+    color: floralwhite;
+}
+
+nav button {
+    background-color: floralwhite
+}
+
+.billboard {
+    background-color: rgb(13, 8, 38);
+    color: aliceblue;
+    padding: 30px 25px;
+}
+
+nav main {
+    color: floralwhite;
+    flex-direction: row-reverse;
+}
+
+.w-50 {
+    width: 50%
+}
+
+* {
+    outline: 1px solid rgba(5, 205, 255, 0.985)
+}
+
+.footer {
+    background-color: rgb(223, 221, 221);
+    text-align: center;
+    padding: 20px
+}
+
+.lightning-color {
+    color: rgb(247, 224, 94)
+}
+
+.links-section {
+    justify-content: space-around;
+    padding: 20px;
+
+}
